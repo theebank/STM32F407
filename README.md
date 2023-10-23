@@ -1,5 +1,5 @@
 # STM32F407
-Custom device drivers for STM32F407 microcontroller peripherals, including ADC, GPIO, UART, to gain experience in embedded systems, emphasizing efficiency and hardware communication
+A suite of tailored device drivers designed to utilize a range of microcontroller peripherals, such as the ADC, GPIO, UART, SPI, and I2C, for diverse functionalities, including executing tasks like managing an entry code system or interfacing with an ADXL345 accelerometer
 
 ## UART
 https://github.com/theebank/STM32F407_UART
