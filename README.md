@@ -11,7 +11,7 @@ https://github.com/theebank/STM32F407_ADC
 ### GPIO driver
 https://github.com/theebank/STM32F407_GPIO
 
-## Drivers for custom tasks:
+## Task tailored device drivers:
 ### Entry Code Application
 https://github.com/theebank/STM32F407_EntryCode
 
