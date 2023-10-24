@@ -16,3 +16,4 @@ https://github.com/theebank/STM32F407_GPIO
 https://github.com/theebank/STM32F407_EntryCode
 
 ### ADXL345 Accelerometer Interfacing
+https://github.com/theebank/STM32F407_ADXL345/tree/master
