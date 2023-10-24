@@ -5,11 +5,17 @@ A suite of device drivers designed to utilize a range of microcontroller periphe
 ### USART driver
 https://github.com/theebank/STM32F407_UART
 
-### ADC drive
+### ADC driver
 https://github.com/theebank/STM32F407_ADC
 
 ### GPIO driver
 https://github.com/theebank/STM32F407_GPIO
+
+### SPI driver
+https://github.com/theebank/STM32F407_ADXL345/blob/master/Src/spi.c
+
+### I2C driver
+https://github.com/theebank/STM32F407_ADXL345/blob/master/Src/i2c.c
 
 ## Task tailored device drivers:
 ### Entry Code Application
